@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+ text-align: center;
+
+}
+
+.img-css{
+  width: 750px;
+  height: 300px;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.carta{
+  background-color: rgb(226, 211, 8);
+  width: 500px;
+  margin: 15px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+.text-css{
+  border: 1px solid white;
+
+  background-color: rgba(27, 26, 26, 0.973);
+}
+
+.buscador-css{
+  width: 500px;
+  height: 30px;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  color: black;
+}
